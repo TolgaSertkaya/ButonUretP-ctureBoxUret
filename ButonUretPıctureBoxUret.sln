@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButonUretPıctureBoxUret", "ButonUretPıctureBoxUret\ButonUretPıctureBoxUret.csproj", "{B62A0D51-9036-4E2D-BF1F-D573E0E268BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62A0D51-9036-4E2D-BF1F-D573E0E268BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62A0D51-9036-4E2D-BF1F-D573E0E268BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62A0D51-9036-4E2D-BF1F-D573E0E268BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62A0D51-9036-4E2D-BF1F-D573E0E268BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4675AE47-C221-4F7D-9881-4073B5521108}
+	EndGlobalSection
+EndGlobal
